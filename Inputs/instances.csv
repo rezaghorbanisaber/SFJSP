@@ -1,0 +1,88 @@
+file,benchmark,name,jobs,machines,operations,small_set,large_set
+Kacem1,Kacem et al. (2002),Kacem1,4,5,12,yes,
+Kacem2,Kacem et al. (2002),Kacem2,10,7,29,yes,
+Kacem3,Kacem et al. (2002),Kacem3,10,10,30,yes,
+Kacem4,Kacem et al. (2002),Kacem4,15,10,56,yes,
+Fattahi1,Fattahi et al. (2007),SFJS1,2,2,4,yes,
+Fattahi2,Fattahi et al. (2007),SFJS2,2,2,4,yes,
+Fattahi3,Fattahi et al. (2007),SFJS3,3,2,6,yes,
+Fattahi4,Fattahi et al. (2007),SFJS4,3,2,6,yes,
+Fattahi5,Fattahi et al. (2007),SFJS5,3,2,6,yes,
+Fattahi6,Fattahi et al. (2007),SFJS6,3,3,9,yes,
+Fattahi7,Fattahi et al. (2007),SFJS7,3,5,9,yes,
+Fattahi8,Fattahi et al. (2007),SFJS8,3,4,9,yes,
+Fattahi9,Fattahi et al. (2007),SFJS9,3,3,9,yes,
+Fattahi10,Fattahi et al. (2007),SFJS10,4,5,12,yes,
+Fattahi11,Fattahi et al. (2007),MFJS1,5,6,15,yes,
+Fattahi12,Fattahi et al. (2007),MFJS2,5,7,15,yes,
+Fattahi13,Fattahi et al. (2007),MFJS3,6,7,18,yes,
+Fattahi14,Fattahi et al. (2007),MFJS4,7,7,21,yes,
+Fattahi15,Fattahi et al. (2007),MFJS5,7,7,21,yes,
+Fattahi16,Fattahi et al. (2007),MFJS6,8,7,24,yes,
+Fattahi17,Fattahi et al. (2007),MFJS7,8,7,32,yes,
+Fattahi18,Fattahi et al. (2007),MFJS8,9,8,36,yes,
+Fattahi19,Fattahi et al. (2007),MFJS9,11,8,44,yes,
+Fattahi20,Fattahi et al. (2007),MFJS10,12,8,48,yes,
+HurinkEdata1,Hurink et al. (1994),mt06 (edata),6,6,36,yes,yes
+HurinkEdata4,Hurink et al. (1994),la01 (edata),10,5,50,yes,yes
+HurinkEdata5,Hurink et al. (1994),la02 (edata),10,5,50,yes,
+HurinkEdata6,Hurink et al. (1994),la03 (edata),10,5,50,yes,
+HurinkEdata7,Hurink et al. (1994),la04 (edata),10,5,50,yes,
+HurinkEdata8,Hurink et al. (1994),la05 (edata),10,5,50,yes,
+HurinkRdata1,Hurink et al. (1994),mt06 (rdata),6,6,36,yes,yes
+HurinkRdata4,Hurink et al. (1994),la01 (rdata),10,5,50,yes,yes
+HurinkRdata5,Hurink et al. (1994),la02 (rdata),10,5,50,yes,
+HurinkRdata6,Hurink et al. (1994),la03 (rdata),10,5,50,yes,
+HurinkRdata7,Hurink et al. (1994),la04 (rdata),10,5,50,yes,
+HurinkRdata8,Hurink et al. (1994),la05 (rdata),10,5,50,yes,
+HurinkVdata1,Hurink et al. (1994),mt06 (vdata),6,6,36,yes,yes
+HurinkVdata4,Hurink et al. (1994),la01 (vdata),10,5,50,yes,yes
+HurinkVdata5,Hurink et al. (1994),la02 (vdata),10,5,50,yes,
+HurinkVdata6,Hurink et al. (1994),la03 (vdata),10,5,50,yes,
+HurinkVdata7,Hurink et al. (1994),la04 (vdata),10,5,50,yes,
+HurinkVdata8,Hurink et al. (1994),la05 (vdata),10,5,50,yes,
+DPpaulli1,Dauzere-Peres and Paulli (1997),01a,10,5,196,,yes
+DPpaulli2,Dauzere-Peres and Paulli (1997),02a,10,5,196,,yes
+DPpaulli3,Dauzere-Peres and Paulli (1997),03a,10,5,196,,yes
+DPpaulli4,Dauzere-Peres and Paulli (1997),04a,10,5,196,,yes
+DPpaulli5,Dauzere-Peres and Paulli (1997),05a,10,5,196,,yes
+DPpaulli6,Dauzere-Peres and Paulli (1997),06a,10,5,196,,yes
+DPpaulli7,Dauzere-Peres and Paulli (1997),07a,15,8,293,,yes
+DPpaulli8,Dauzere-Peres and Paulli (1997),08a,15,8,293,,yes
+DPpaulli9,Dauzere-Peres and Paulli (1997),09a,15,8,293,,yes
+DPpaulli10,Dauzere-Peres and Paulli (1997),10a,15,8,293,,yes
+DPpaulli11,Dauzere-Peres and Paulli (1997),11a,15,8,293,,yes
+DPpaulli12,Dauzere-Peres and Paulli (1997),12a,15,8,293,,yes
+DPpaulli13,Dauzere-Peres and Paulli (1997),13a,20,10,387,,yes
+DPpaulli14,Dauzere-Peres and Paulli (1997),14a,20,10,387,,yes
+DPpaulli15,Dauzere-Peres and Paulli (1997),15a,20,10,387,,yes
+DPpaulli16,Dauzere-Peres and Paulli (1997),16a,20,10,387,,yes
+DPpaulli17,Dauzere-Peres and Paulli (1997),17a,20,10,387,,yes
+DPpaulli18,Dauzere-Peres and Paulli (1997),18a,20,10,387,,yes
+HurinkEdata2,Hurink et al. (1994),mt10 (edata),10,10,100,,yes
+HurinkEdata3,Hurink et al. (1994),mt20 (edata),20,5,100,,yes
+HurinkEdata9,Hurink et al. (1994),la06 (edata),15,5,75,,yes
+HurinkEdata14,Hurink et al. (1994),la11 (edata),20,5,100,,yes
+HurinkEdata19,Hurink et al. (1994),la16 (edata),10,10,100,,yes
+HurinkEdata24,Hurink et al. (1994),la21 (edata),15,10,150,,yes
+HurinkEdata29,Hurink et al. (1994),la26 (edata),20,10,200,,yes
+HurinkEdata34,Hurink et al. (1994),la31 (edata),30,10,300,,yes
+HurinkEdata39,Hurink et al. (1994),la36 (edata),15,15,225,,yes
+HurinkRdata2,Hurink et al. (1994),mt10 (rdata),10,10,100,,yes
+HurinkRdata3,Hurink et al. (1994),mt20 (rdata),20,5,100,,yes
+HurinkRdata9,Hurink et al. (1994),la06 (rdata),15,5,75,,yes
+HurinkRdata14,Hurink et al. (1994),la11 (rdata),20,5,100,,yes
+HurinkRdata19,Hurink et al. (1994),la16 (rdata),10,10,100,,yes
+HurinkRdata24,Hurink et al. (1994),la21 (rdata),15,10,150,,yes
+HurinkRdata29,Hurink et al. (1994),la26 (rdata),20,10,200,,yes
+HurinkRdata34,Hurink et al. (1994),la31 (rdata),30,10,300,,yes
+HurinkRdata39,Hurink et al. (1994),la36 (rdata),15,15,225,,yes
+HurinkVdata2,Hurink et al. (1994),mt10 (vdata),10,10,100,,yes
+HurinkVdata3,Hurink et al. (1994),mt20 (vdata),20,5,100,,yes
+HurinkVdata9,Hurink et al. (1994),la06 (vdata),15,5,75,,yes
+HurinkVdata14,Hurink et al. (1994),la11 (vdata),20,5,100,,yes
+HurinkVdata19,Hurink et al. (1994),la16 (vdata),10,10,100,,yes
+HurinkVdata24,Hurink et al. (1994),la21 (vdata),15,10,150,,yes
+HurinkVdata29,Hurink et al. (1994),la26 (vdata),20,10,200,,yes
+HurinkVdata34,Hurink et al. (1994),la31 (vdata),30,10,300,,yes
+HurinkVdata39,Hurink et al. (1994),la36 (vdata),15,15,225,,yes

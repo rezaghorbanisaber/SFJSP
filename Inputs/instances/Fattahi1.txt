@@ -1,0 +1,31 @@
+Jobs:
+0 1
+Machines:
+0 1
+Operations per job:
+0 1
+2 3
+Predecessors per operation:
+
+0
+
+2
+Successors per operation:
+1
+
+3
+
+Machines per operation:
+0 1
+0 1
+0 1
+0 1
+Processing times (o m p):
+0 0 25
+0 1 37
+1 0 32
+1 1 24
+2 0 45
+2 1 65
+3 0 21
+3 1 65
