@@ -77,7 +77,7 @@ All values are per run. `obj` is the in-sample value of the optimized measure (E
 - expected makespan: paired t-interval and test (`p_paired_t`) on the scenario makespans;
 - CVaR_0.9: paired percentile bootstrap interval with 2000 resamples of the scenarios (the same resample for x and y), with the seed `bootstrap_seed` of the case (numpy `default_rng`).
 
-`comparison` is `STS_solutions` for the STS solutions of all settings and `proved_optima_BCP` for the BCP optima of E and SL0 on the small instances. `identical` is 1 when both solutions have the same assignment and sequences, and `correlation` is the Pearson correlation of their scenario makespans.
+`comparison` is `STS_solutions` for the STS solutions of all settings and `proved_optima_BCP` for the BCP optima on the small instances: E against SL0 on all cases, and E and SL0 against CVAR90 on the cases in which both optima of the pair are proved. `identical` is 1 when both solutions have the same assignment and sequences, and `correlation` is the Pearson correlation of their scenario makespans.
 
 The workbook adds the per-group summaries of these intervals (`Paired_summary`), the paired t-tests between the tabu searches (`TS_ttests`), and the quantities of the SAA method (`SAA_summary`: in-sample bias, spread of the out-of-sample values, estimated optimality gap with respect to the mean of the SAA optimal values).
 
