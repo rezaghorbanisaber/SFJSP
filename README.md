@@ -4,8 +4,6 @@ This repository contains the benchmark instances, the run-level results, the det
 
 > R. Ghorbani Saber, P. Leyman, E.-H. Aghezzaf. *Stochastic Flexible Job Shop Scheduling Problem.* (Section 7)
 
-and of Chapter 5 of the PhD thesis of R. Ghorbani Saber (Section 5.6). Section 7.k of the paper corresponds to Section 5.6.k of the thesis.
-
 The stochastic flexible job shop scheduling problem (SFJSP) assigns every operation to an eligible machine and sequences the operations on the machines before the processing times are known. The processing times are random, and every operation starts as soon as its job predecessor and its machine predecessor are finished. Three measures of the makespan distribution are optimized over a sample of scenarios (SAA problem): the expected makespan E[Cmax], the service level α(T) = P(Cmax ≤ T) for a deadline T, and CVaR_β(Cmax).
 
 The source code is not included in this repository.
